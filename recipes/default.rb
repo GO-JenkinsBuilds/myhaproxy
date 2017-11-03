@@ -14,8 +14,8 @@ node.default['haproxy']['members'] = [
 'port' => 4000,
 'ssl_port' => 4000
 },{
-'hostname' => 'ec2-34-229-245-96.compute-1.amazonaws.com',
-'ipaddress' => '34.229.245.96',
+'hostname' => 'ec2-184-72-137-102.compute-1.amazonaws.com',
+'ipaddress' => '184.72.137.102',
 'port' => 80,
 'ssl_port' => 80
 }]
